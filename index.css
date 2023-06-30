@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url(low_poly_banner_design_1711.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* CSS code for mobile devices */
+/* @media only screen and (max-width: 600px) { */
+
+  /* Modify the font size and line height for the body */
+  /* body {
+    font-size: 16px;
+    line-height: 1.5;
+  } */
+
+  /* Modify the font size for code elements */
+  /* code {
+    font-size: 14px;
+  } */
+
+/* } */
